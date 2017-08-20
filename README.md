@@ -34,13 +34,13 @@
 - 未设置开机启动
 
 ## 安装或更新到最新开发版(支持新特性，不推荐小白使用) ##
-    wget -q -N --no-check-certificate https://raw.githubusercontent.com/Readour/AR-B-P-B/master/install.sh && bash install.sh develop
+    wget -q -N --no-check-certificate https://raw.githubusercontent.com/314051672/-/master/install.sh && bash install.sh develop
 
 ## 安装&更新 ##
-    wget -q -N --no-check-certificate https://raw.githubusercontent.com/Readour/AR-B-P-B/master/install.sh && bash install.sh
+    wget -q -N --no-check-certificate https://raw.githubusercontent.com/314051672/-/master/install.sh && bash install.sh
 
 ## 自检（没有卵用😝） ##
-    wget -q -N --no-check-certificate https://raw.githubusercontent.com/Readour/AR-B-P-B/master/self-check.sh && bash self-check.sh
+    wget -q -N --no-check-certificate https://raw.githubusercontent.com/314051672/-/master/self-check.sh && bash self-check.sh
 
 ## 卸载 ##
-	wget -q -N --no-check-certificate https://raw.githubusercontent.com/Readour/AR-B-P-B/master/install.sh && bash install.sh uninstall
+	wget -q -N --no-check-certificate https://raw.githubusercontent.com/314051672/-/master/install.sh && bash install.sh uninstall
